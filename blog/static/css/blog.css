@@ -1,13 +1,13 @@
 h1 a {
-    color: #FCA205;
+    color: #5c05fc;
     font-family: 'Lobster';
 }
 body {
-    padding-left: 15px;
+    text-align: center;
 }
 
 .page-header {
-    background-color: #ff9400;
+    background-color: #5c05fc;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
@@ -16,18 +16,22 @@ body {
     color: #ffffff;
     font-size: 36pt;
     text-decoration: none;
+    text-transform: uppercase;
 }
 
 .content {
-    margin-left: 40px;
+    text-align:justify;
 }
 
 h1, h2, h3, h4 {
     font-family: 'Lobster', cursive;
+    text-transform: capitalize;
+    text-align: center;
 }
 
 .date {
     color: #828282;
+    text-align: right;
 }
 
 .save {
